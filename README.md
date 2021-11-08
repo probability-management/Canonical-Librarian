@@ -1,7 +1,7 @@
 # Canonical-Librarian
 
 
-Web Interface to query canonicla libraries
+Web Interface to query canonical libraries
 
 
 ## Inspiration
